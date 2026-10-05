@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 APP_NAME = "DevOps Git Demo"
-APP_VERSION = "1.0.0"
+APP_VERSION = "2.0.0"
 
 
 def main():
